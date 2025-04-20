@@ -1,3 +1,3 @@
-module mertens.com.br/desafiogo1
+module github.com/gvmertens/godesafio01
 
 go 1.24.1
